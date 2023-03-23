@@ -21,7 +21,7 @@ Se positionner dans la branche que vous venez de créer : git checkout votre_pre
 npm install : pour installer toutes les dépendances (Si vous rencontrer des erreurs)
 
 Travaux
-En fonction de la tâche qui vous a été attribuée, créez un fichier portant ce nom avec l'extension .jsx dans le répertoire /src/component . Exemple : navbar.jsx
+En fonction de la tâche qui vous a été attribuée, créez un fichier portant le nom de la page sur laquel vous devez travailer avec l'extension .blade.php dans le répertoire resources/view.  Exemple : resources/view/welcom.blade.php (Pouvez écrire votre code directement dans ce fichier)
 Faire automatiquement git add nom_du_fichier
 Faire convenablement des git commits -m "preciser ce que vous aviez faire"
 A la fin de vos travaux, faire un git push -u origin votre_prenom (nom de votre branch).
